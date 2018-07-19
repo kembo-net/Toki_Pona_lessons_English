@@ -2,8 +2,21 @@
   Description: Toki Pona is a constructed language that favors simplicity over clarity, and touts itself as "the language of good. The simple way of life." 
   -->
 
-[Deutsch](https://jan-lope.github.io/Toki_Pona_Lektionen_Deutsch/)
+[Original(Deutsch)](https://jan-lope.github.io/Toki_Pona_Lektionen_Deutsch/)
+[Original(English)](https://jan-lope.github.io/Toki_Pona_lessons_English/)
 
+# Toki Pona - Lessons and Dictionary - 日本語訳プロジェクト
+本プロジェクトは Robert.Warnke 氏によるトキポナのレッスン及び辞書(英語バージョン)の日本語訳のプロジェクトです。
+This is a project of Japanese translations of Robert.Warnke's Toki Pona lessons and dictionary(English ver).
+ni li tawa toki e sona pi toki pona, pi jan Lope, tan toki Inli, tawa toki Nijon.
+
+英語得意ではないので、何か間違いなどあれば教えてください。
+Because I'm not skilled at English, I want me to tell me if there are any mistakes.
+toki Inli li pona ala tawa mi. mi wile e sona pona, pi toki ike lon lipu ni.
+
+Twitter(Japanese): [@kembo_net](https://twitter.com/kembo_net)
+Twitter(Toki Pona): [@_jan_Kenpo](https://twitter.com/_jan_Kenpo)
+<!--
 # Toki Pona - Lessons and Dictionary
 Unlike Esperanto, Toki Pona is a constructed language that favors simplicity over clarity, and touts itself as "the language of good. The simple way of life." 
 
@@ -92,3 +105,4 @@ Download the source code in a directory and change to this directory. After this
 
 
 [jan Lope](https://jan-lope.github.io)
+-->
